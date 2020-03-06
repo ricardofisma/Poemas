@@ -13,6 +13,8 @@ description: "Este libro trata sobre poemas personales"
 # Primeros poemas
 
 Hubieron y no hubieron ele,entos vivos y moviles volatiles y no volatiles
+
+enotnces es menester comprender que lo que se dcie o pinesa debe estar enetendido completamente
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
 The **bookdown** package can be installed from CRAN or Github:

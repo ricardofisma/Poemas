@@ -3,4 +3,4 @@ book_filename: "Poemas"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Capìtulo "
+    chapter_name: "Capítulo "
