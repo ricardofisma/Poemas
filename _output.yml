@@ -1,6 +1,10 @@
 bookdown::gitbook:
   css: style.css
   config:
+    fontsettings:
+      theme: sepia
+      family: serif
+      size: 2
     toc:
     download: ["pdf", "epub"]
 bookdown::pdf_book:
